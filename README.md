@@ -1,3 +1,7 @@
+### About
+---
+👋🏼 Hi there! I'm David. I love to solve problems and learn new things. Full-time developer, part-time disco ball. 🕺🏻
+
 ### Skills
 ---
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
