@@ -3,7 +3,6 @@
 👋🏼  Hi there! I'm David. I love to solve problems and learn new things. Full-time developer, part-time disco ball. 🕺🏻
 
 ## Skills
----
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -28,7 +27,6 @@
 ![Mac OS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
 
 ## Stats
----
 ![davidvous' GitHub stats](https://github-readme-stats.vercel.app/api?username=davidvous&show_icons=true&count_private=true&hide=contribs&theme=vision-friendly-dark)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=davidvous&theme=highcontrast&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
