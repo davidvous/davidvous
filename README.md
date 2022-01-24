@@ -1,5 +1,5 @@
 ## About Me
-👋🏼  Hi there! I'm David. I love to solve problems and learn new things. Full-time developer, part-time disco ball. 🕺🏻
+👋🏼  Hi there! I'm David. I fell in love with data and complex systems through the last decade as a professional in the hospitality and healthcare industry. It wasn't always smooth sailing. There were alot of late night console.logs and of course, every couple has their arguments when things get undefined. But in 2020, I dedicated myself to learning her language full-time (and all the little dialects that came with it). Now, we couldn't be happier. And you now what else is great? Since we've reached this level of mutual trust and understanding, she's totally cool with me checking out her friends like C++ and Python.
 
 ## Skills
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
