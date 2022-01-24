@@ -1,5 +1,5 @@
 ## About Me
-Hi there! I'm David. I fell in love with data and complex systems through the last decade as a professional in the hospitality and healthcare industry. It wasn't always smooth sailing. There were alot of late night console.logs and of course, every couple has their arguments when things get undefined. I dedicated myself to learning one of her languages, JavaScript, full-time. And everyday, I'm still learning! It's really opened a whole new level of trust and understanding to our relationship. Now she's totally cool with me checking out her friends--Python and C++. 
+Hi there! I'm David. I fell in love with data and complex systems through the last decade as a professional in the hospitality and healthcare industry. It wasn't always smooth sailing. There were alot of late night console.logs and of course, every couple has their arguments when things get undefined. I dedicated myself to learning one of her languages, JavaScript, full-time. And everyday, I'm still learning! It's really opened a whole new level of trust and understanding to our relationship. Now, she's totally cool with me checking out her friends--Python and C++. 
 
 ## Skills
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
