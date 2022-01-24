@@ -1,5 +1,4 @@
 ## About Me
----
 👋🏼  Hi there! I'm David. I love to solve problems and learn new things. Full-time developer, part-time disco ball. 🕺🏻
 
 ## Skills
