@@ -1,5 +1,11 @@
+
+![terminal_hello](https://user-images.githubusercontent.com/83468633/151082736-a40de21d-a6fc-40f0-b3d8-053bf68ecb90.gif)
+
 ## About Me
 Hi there! I'm David. I fell in love with data and complex systems through the last decade as a professional in the hospitality and healthcare industry. It wasn't always smooth sailing. There were alot of late night console.logs and of course, every couple has their arguments when things get undefined. I dedicated myself to learning one of her languages, JavaScript, full-time. And everyday, I'm still learning! Imagine my surprise when she introduced me to some of her family like Python and C++.
+
+
+
 
 ![family](https://media.giphy.com/media/fYGM9HVdNeSzOI3Wet/giphy.gif)
 
@@ -31,17 +37,6 @@ Hi there! I'm David. I fell in love with data and complex systems through the la
 ![davidvous' GitHub stats](https://github-readme-stats.vercel.app/api?username=davidvous&show_icons=true&count_private=true&hide=contribs&theme=vision-friendly-dark)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=davidvous&theme=highcontrast&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-<!--
-**davidvous/davidvous** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
