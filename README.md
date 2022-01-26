@@ -2,7 +2,7 @@
 ![terminal_hello](https://user-images.githubusercontent.com/83468633/151082736-a40de21d-a6fc-40f0-b3d8-053bf68ecb90.gif)
 
 ## About Me
-Hi there! I'm David. I fell in love with data and complex systems through the last decade as a professional in the hospitality and healthcare industry. It wasn't always smooth sailing. There were alot of late night console.logs and of course, every couple has their arguments when things get undefined. I dedicated myself to learning one of her languages, JavaScript, full-time. And everyday, I'm still learning! Imagine my surprise when she introduced me to some of her family like Python and C++.
+I fell in love with data and complex systems through the last decade as a professional in the hospitality and healthcare industry. It wasn't always smooth sailing. There were alot of late night console.logs and of course, every couple has their arguments when things get undefined. I dedicated myself to learning one of her languages, JavaScript, full-time. And everyday, I'm still learning! Imagine my surprise when she introduced me to some of her family like Python and C++.
 
 
 
