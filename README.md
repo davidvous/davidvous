@@ -1,3 +1,4 @@
+![github_bannerdvl](https://user-images.githubusercontent.com/83468633/153113677-f6a29ba5-5c44-4e2a-9b87-a2dd1a44f515.gif)
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ledavidvu@gmail.com) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-vu-le/)
 
